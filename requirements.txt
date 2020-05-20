@@ -18,7 +18,7 @@ djangotoolbox==1.6.2
 duplicity==0.6.23
 ecdsa==0.11
 html5lib==0.999
-httplib2==0.9
+httplib2==0.18.0
 idna==0.9
 ipaddr==2.1.11
 ipaddress==1.0.7
