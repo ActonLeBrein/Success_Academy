@@ -45,7 +45,7 @@ pysqlite==2.6.3
 python-apt===0.9.3.10ubuntu1
 python-debian==0.1.22
 pyxdg==0.25
-reportlab==3.1.8
+reportlab==3.5.55
 requests==2.3.0
 service-identity==1.0.0
 sessioninstaller==0.0.0
