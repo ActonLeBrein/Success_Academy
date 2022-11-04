@@ -57,7 +57,7 @@ sqlparse==0.1.14
 ssh-import-id==3.21
 system-service==0.1.6
 tornado==4.1
-Twisted==13.1.0
+Twisted==22.10.0
 Twisted-Core==14.0.2
 Twisted-Web==14.0.2
 unity-lens-photos==1.0
