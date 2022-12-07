@@ -2,7 +2,7 @@ adium-theme-ubuntu==0.3.4
 apt-xapian-index==0.46
 backports.ssl-match-hostname==3.4.0.2
 beautifulsoup4==4.6.0
-certifi==2015.4.28
+certifi==2022.12.7
 characteristic==0.1.0
 chardet==2.2.1
 colorama==0.3.1
